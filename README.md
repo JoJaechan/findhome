@@ -11,5 +11,5 @@ Demo : <br>
   <a href='http://itwillbs2.cafe24.com/findhome/' 
    target='_blank'>http://itwillbs2.cafe24.com/findhome/</a>
 <br><a href='http://itwillbs2.cafe24.com/findhome/adminlogin' 
-   target='_blank'>http://itwillbs2.cafe24.com/findhome/(사업자 페이지)</a>
+   target='_blank'>http://itwillbs2.cafe24.com/findhome/ (사업자 페이지)</a>
  </p>
