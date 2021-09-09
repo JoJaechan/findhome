@@ -7,9 +7,9 @@
 <img src="https://github.com/imrutel/findhome/blob/master/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png?raw=true" alt="메인페이지 이미지"/>
 </p>
 <p>
-Demo : <br>
+Demo : 
   <a href='http://itwillbs2.cafe24.com/findhome/' 
    target='_blank'>http://itwillbs2.cafe24.com/findhome/</a>
-<br><a href='http://itwillbs2.cafe24.com/findhome/adminlogin' 
-   target='_blank'>http://itwillbs2.cafe24.com/findhome/ (사업자 페이지)</a>
+<br>(사업자 페이지) <a href='http://itwillbs2.cafe24.com/findhome/adminlogin' 
+   target='_blank'>http://itwillbs2.cafe24.com/findhome/ </a>
  </p>
