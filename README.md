@@ -8,7 +8,7 @@
 </p>
 <p>
 [ Demo ] <br>
-  서비스 페이지 : <a href='http://itwillbs2.cafe24.com/findhome/' target='_blank'>http://itwillbs2.cafe24.com/findhome/</a>
+  서비스 페이지 (소셜 로그인은 구현중): <a href='http://itwillbs2.cafe24.com/findhome/' target='_blank'>http://itwillbs2.cafe24.com/findhome/</a>
 <br>관리자 페이지 : <a href='http://itwillbs2.cafe24.com/findhome/admin' target='_blank'>http://itwillbs2.cafe24.com/findhome/admin </a>
   <p>중개인 테스트 계정 ID : seller@gmail.com, PW : 1234qwer<br>
   테스트 관리자 계정 ID:admin@gmail.com, PW:1234<br></p>
