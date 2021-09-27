@@ -10,6 +10,6 @@
 Demo : 
   <a href='http://itwillbs2.cafe24.com/findhome/' 
    target='_blank'>http://itwillbs2.cafe24.com/findhome/</a>
-<br>(관리자 페이지) <a href='http://itwillbs2.cafe24.com/findhome/admin' 
+<br>(관리자 페이지, 테스트 관리자 계정 ID:admin@gmail.com, PW:1234) <a href='http://itwillbs2.cafe24.com/findhome/admin' 
    target='_blank'>http://itwillbs2.cafe24.com/findhome/admin </a>
  </p>
